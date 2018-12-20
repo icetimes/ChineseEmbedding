@@ -38,7 +38,7 @@ def train_vector(train_path, model_path):
 
 
 if __name__ == '__main__':
-    train_path = "D:/boe-data/服务器访问/数据资源/text8/document.txt"
+    train_path = "D:/data/服务器访问/数据资源/text8/document.txt"
     model_path = "./tmp/model.bin"
     # train_vector(train_path, model_path)
 
